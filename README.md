@@ -1,4 +1,4 @@
-# Beb
+# beb
 > An high abstraction API development setup with Bun, Elysia and Biome!
 
 This is just my way of saving time whenever I need to use a JavaScript/Typescript runtime.

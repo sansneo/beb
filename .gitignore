@@ -1,12 +1,27 @@
+# Modules
+node_modules/
+
+# Builds
+*.db
+*.dll
+*.exe
+*.o
+*.out
+*.so
+*.test
+/build
+/dist
+
+# Logs
+*.log
+
+# Environment
 .env*
 !.env.example
-tags*
-build/
-coverage/
-node_modules/
-package-lock.json
-yarn-lock.json
-pnpm-lock.json
-.DS_Store
-.idea/
+
+# Tools
 .vscode/
+.idea/
+.DS_Store
+*.swp
+tags*

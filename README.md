@@ -41,6 +41,7 @@ bun install && bun dev
 ```
 
 > [!NOTE]
-> You could modify biome.json by adding `"formatter.useEditorConfig": true` to use an `.editorconfig` for formatting rules if you are into that.
+> You could modify biome.json by adding `"formatter.useEditorConfig": true` to
+use an `.editorconfig` for formatting rules if you are into that.
 
 I heard [Zod](https://zod.dev/) is good!
